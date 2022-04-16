@@ -1,0 +1,15 @@
+.oddel {
+    background-color:hsl(0, 100%, 81%);
+    font-family:Verdana, "DajaVu Sans", sans-serif;
+}
+.medfnt {
+    font-size: 24px;
+}
+#secondelement {
+    color:hsl(240,100%,50%);
+    font-size: 36px;
+}
+#forthelement {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
